@@ -19,5 +19,5 @@ def main():
     # TODO: Use strings para formatar o log
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
